@@ -1,9 +1,1 @@
-# 设计模式
-
-## 日志记录
-
-### Iterator 模式
-3月28完成。
-
-### Adapter 模式
-3月29完成。
+# [《图解设计模式》](https://book.douban.com/subject/26933281/)
